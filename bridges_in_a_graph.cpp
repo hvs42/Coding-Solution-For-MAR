@@ -1,6 +1,8 @@
 // Coding Solution For MAR
 // Name: Harsh Vardhan Singh
 // University Roll No. : 16900219042
+// Department : Information Technology
+// Year : 2nd year (4th Sem)
 
 
 // Problem :- Find Bridges in a graph
